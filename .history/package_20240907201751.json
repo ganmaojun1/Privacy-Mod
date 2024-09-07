@@ -6,7 +6,19 @@
   "publisher": "您的发布者名称",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ganmaojun1/Privacy-mod#.git"
+    "url": ""publisher": "您的发布者名称",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/您的用户名/您的仓库名.git"
+  },
+  "homepage": "https://github.com/您的用户名/您的仓库名#readme",
+  "bugs": {
+    "url": "https://github.com/您的用户名/您的仓库名/issues"
+  },https://github.com/您的用户名/您的仓库名.git"
+  },
+  "homepage": "https://github.com/您的用户名/您的仓库名#readme",
+  "bugs": {
+    "url": "https://github.com/您的用户名/您的仓库名/issues"
   },
   "engines": {
     "vscode": "^1.60.0"
@@ -38,12 +50,6 @@
       }
     ]
   },
-  "keywords": [
-    "privacy",
-    "security",
-    "blur",
-    "opacity"
-  ],
   "scripts": {
     "vscode:prepublish": "npm run compile",
     "compile": "tsc -p ./",

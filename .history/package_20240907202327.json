@@ -3,7 +3,7 @@
   "displayName": "VSCode Privacy Mode",
   "description": "在VSCode中添加隐私保护模式，可切换不透明度和模糊效果",
   "version": "0.1.0",
-  "publisher": "GavinMo",
+  "publisher": "",
   "repository": {
     "type": "git",
     "url": "https://github.com/ganmaojun1/Privacy-mod#.git"
